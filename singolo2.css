@@ -1,0 +1,138 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.container{
+  margin: 0 auto;
+  width: 1020px;
+}
+.portfolio{
+  height: 950px;
+  background-color: #2D303A;
+}
+.greyportfolio{
+  position: relative;
+  top: 950px;
+  height: 10px;
+  background-color: #323746;
+}
+.a_port{
+  position: absolute;
+  color: #666D89;
+  left: 50px;
+  top: 80px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.b_port{
+  position: absolute;
+  color: #636983;
+  left: 50px;
+  top: 160px;
+  font-size: 20px;
+}
+.all_button{
+  position: absolute;
+  font-size: 15px;
+  top: 200px;
+  color: #767E9E;
+  left: 50px;
+  text-decoration: none;
+  border: 1px solid #767E9E;
+  padding: 5px;
+  border-radius: 5px;
+}
+.all_button:hover{
+  color: #DEDEDE;
+  border: 1px solid #DEDEDE;
+}
+.web_button{
+  position: absolute;
+  font-size: 15px;
+  top: 200px;
+  color: #767E9E;
+  left: 95px;
+  text-decoration: none;
+  border: 1px solid #767E9E;
+  padding: 5px;
+  border-radius: 5px;
+}
+.web_button:hover{
+  color: #DEDEDE;
+  border: 1px solid #DEDEDE
+}
+.graphic_button{
+  position: absolute;
+  font-size: 15px;
+  top: 200px;
+  color: #767E9E;
+  left: 195px;
+  text-decoration: none;
+  border: 1px solid #767E9E;
+  padding: 5px;
+  border-radius: 5px;
+}
+.graphic_button:hover{
+  color: #DEDEDE;
+  border: 1px solid #DEDEDE
+}
+.art_button{
+  position: absolute;
+  font-size: 15px;
+  top: 200px;
+  color: #767E9E;
+  left: 315px;
+  text-decoration: none;
+  border: 1px solid #767E9E;
+  padding: 5px;
+  border-radius: 5px;
+}
+.art_button:hover{
+  color: #DEDEDE;
+  border: 1px solid #DEDEDE
+}
+.port_pictures{
+  position: absolute;
+  top: 250px;
+  left: 40px;
+}
+.about_us{
+  position: relative;
+  top: 950px;
+  height: 900px;
+  background-color: #F2F2F2;
+}
+.about{
+  position: absolute;
+  top: 80px;
+  left: 50px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #666D89;
+}
+.about_inf{
+  position: absolute;
+  top: 150px;
+  left: 50px;
+  font-size: 20px;
+  text-align: left;
+  color: #767E9E;
+}
+.faces{
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  text-align: left;
+}
+.creators{
+  text-align: left;
+  color: #666D89;
+  font-weight: bold;
+  font-size: 20px;
+}
+.about_creators{
+  text-align: left;
+  color: #767E9E;
+  font-size: 15px;
+}
